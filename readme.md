@@ -24,6 +24,9 @@
   <a href="https://wa.me/919111801197" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28" alt="WhatsApp" />
   </a>
+  <a href="https://my-portfolio-theta-liart-28.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Portfolio" />
+  </a>
 </div>
 
 <br />
@@ -164,3 +167,4 @@ I'm open to freelance projects, full-time roles and thoughtful collaborations.
 - [Instagram](https://www.instagram.com/akshayrathore_/)
 - [WhatsApp](https://wa.me/919111801197)
 - [Email](mailto:akshayrathore1197@gmail.com)
+- [Portfolio](https://my-portfolio-theta-liart-28.vercel.app/)
